@@ -2,7 +2,7 @@
 
 ## Project: Snakes Café
 
-Author: Kassie Bradshaw
+### Author: Kassie Bradshaw
 
 ---
 
@@ -27,7 +27,7 @@ Author: Kassie Bradshaw
 
 ### Samples
 
-```
+```python
 $ python snakes_cafe.py
 **************************************
 **    Welcome to the Snakes Cafe!   **
@@ -69,7 +69,7 @@ Unicorn Tears
 
 #### Entering an order
 
-```
+```python
 ***********************************
 ** What would you like to order? **
 ***********************************
@@ -84,26 +84,29 @@ Unicorn Tears
 
 #### Exiting
 
-```
+```python
 > quit
 ```
 
 ---
 
 ### Links and Resources
+
 * back-end server url (when applicable)
 * front-end application (when applicable)
 
 ---
 
 ### Setup
-* .env requirements (where applicable)
+
+* `.env` requirements (where applicable)
   * PORT - Port Number
   * DATABASE_URL - URL to the running Postgres instance/db
 
 ---
 
 ### How to initialize/run your application (where applicable)
+
 e.g. `python main.py`
 
 ---
@@ -113,6 +116,7 @@ e.g. `python main.py`
 ---
 
 ### Tests
+
 * How do you run tests?
 * Any tests of note?
 * Describe any tests that you did not complete, skipped, etc
